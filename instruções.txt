@@ -13,12 +13,12 @@ $config['base_url']	= '';
 
 Aqui você colocará a url base de sua aplicação, se colocar na raiz do servidor por exemplo colocará assim: $config['base_url']	= 'http://127.0.0.1'; ou 'http://dominio.com'
 
-Se colocar dentro de uma pasta com nome por exemplo 'mapos' ficará assim:
-$config['base_url']	= 'http://127.0.0.1/mapos';
+Se colocar dentro de uma pasta com nome por exemplo 'osprime' ficará assim:
+$config['base_url']	= 'http://127.0.0.1/osprime';
 
 
 Obs: Em alguns casos no ambiente local (localhost) é necessário especificar a porta.
-Exemplo: $config['base_url']	= 'http://127.0.0.1:3000/mapos';
+Exemplo: $config['base_url']	= 'http://127.0.0.1:3000/osprime';
 ---------------------------------------
 
 
